@@ -1,0 +1,256 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 888px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 570px;
+  height: 968px;
+  margin: -81px auto 0;
+}
+
+.u-section-1 .u-text-1 {
+  font-family: Nunito Sans;
+  font-weight: 900;
+  font-size: 2.625rem;
+  margin: -561px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-family: Nunito;
+  background-image: none;
+  font-weight: 300;
+  font-size: 1.875rem;
+  margin: 145px auto 0 350px;
+  padding: 7px 96px 8px;
+}
+
+.u-section-1 .u-text-2 {
+  font-family: Nunito;
+  font-weight: 200;
+  font-size: 1.5625rem;
+  line-height: 1.4;
+  letter-spacing: 0px;
+  margin: -198px auto 0 323px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 72px;
+  background-image: none;
+  height: 72px;
+  margin: 194px auto 0 364px;
+  padding: 11px;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 74px;
+  background-image: none;
+  height: 74px;
+  margin: -73px auto 0 477px;
+  padding: 11px;
+}
+
+.u-section-1 .u-icon-3 {
+  width: 74px;
+  background-image: none;
+  height: 74px;
+  margin: -76px 362px 0 auto;
+  padding: 10px;
+}
+
+.u-section-1 .u-icon-4 {
+  width: 74px;
+  background-image: none;
+  height: 74px;
+  margin: -74px 477px 0 auto;
+  padding: 9px;
+}
+
+.u-section-1 .u-image-2 {
+  width: 570px;
+  height: 322px;
+  margin: -730px auto 0;
+}
+
+.u-section-1 .u-image-3 {
+  width: 268px;
+  height: 268px;
+  margin: -299px auto 0;
+}
+
+.u-section-1 .u-image-4 {
+  width: 570px;
+  height: 968px;
+  margin: -381px auto 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-top: -80px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -562px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 150px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 266px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 300px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-top: -72px;
+    margin-left: 394px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-top: -75px;
+    margin-right: 298px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 393px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-top: 130px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -1159px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 204px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 230px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 302px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-right: 228px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 301px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-left: 118px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 769px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 917px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -511px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 153px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 173px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 227px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-right: 171px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 226px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 540px;
+    height: 305px;
+    margin-top: 119px;
+    margin-left: auto;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -1132px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 540px;
+    height: 917px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 577px;
+    margin-top: -10px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: -241px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-left: 96px;
+  }
+
+  .u-section-1 .u-icon-1 {
+    margin-left: 109px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 143px;
+  }
+
+  .u-section-1 .u-icon-3 {
+    margin-right: 108px;
+  }
+
+  .u-section-1 .u-icon-4 {
+    margin-right: 142px;
+  }
+
+  .u-section-1 .u-image-2 {
+    width: 340px;
+    height: 192px;
+    margin-top: 83px;
+  }
+
+  .u-section-1 .u-image-3 {
+    margin-top: -983px;
+  }
+
+  .u-section-1 .u-image-4 {
+    width: 340px;
+    height: 577px;
+  }
+}
