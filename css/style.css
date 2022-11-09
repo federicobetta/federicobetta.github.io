@@ -3,6 +3,8 @@ body{
 }
 #wrapper{
 	width: 100%; background: ; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; border-collapse:collapse; mso-table-lspace: 0pt; mso-table-rspace: 0pt;
+	position: absolute;
+	height: 100%;
 }
 .inner_Container{
 	width: 100%; max-width: 500px; background: #0F273C; height: 100%;
