@@ -7,10 +7,10 @@ body{
 	height: 100%;
 }
 .inner_Container{
-	width: 100%; max-width: 700px; background: #0F273C; height: 100%;
+	width: 100%; max-width: 500px; background: #0F273C; height: 100%;
 }
 .header_img{
-	width: 100%; max-width: 700px; display: block; margin-bottom: 20px;
+	width: 100%; max-width: 500px; display: block; margin-bottom: 20px;
 }
 .heroContainer{
 	background: url(../imgs/img_1837_3.png); background-repeat: no-repeat; background-size: 100% 100%;
@@ -35,7 +35,7 @@ body{
 	display: block;
 }
 .ftr_img{
-	width: 100%; max-width: 700px; display: block; margin-top: 40px;
+	width: 100%; max-width: 500px; display: block; margin-top: 40px;
 }
 .social_Container{
 	padding: 0 10px;
